@@ -1,2 +1,2 @@
 # demo_git
-Repo utiliséà des fins d'essais
+Repo utilisé à des fins d'essais
